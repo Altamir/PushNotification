@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushNotification.Domain", "src\Domain\PushNotification.Domain\PushNotification.Domain.csproj", "{2EA511D7-CAAE-4598-800D-B89A371F0400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushNotification.API", "src\API\PushNotification.API\PushNotification.API.csproj", "{6A950F40-2420-4B5E-87CC-9478CF207CB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EA511D7-CAAE-4598-800D-B89A371F0400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA511D7-CAAE-4598-800D-B89A371F0400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA511D7-CAAE-4598-800D-B89A371F0400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA511D7-CAAE-4598-800D-B89A371F0400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A950F40-2420-4B5E-87CC-9478CF207CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A950F40-2420-4B5E-87CC-9478CF207CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A950F40-2420-4B5E-87CC-9478CF207CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A950F40-2420-4B5E-87CC-9478CF207CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
